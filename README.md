@@ -63,7 +63,7 @@ When I’m not doing astronomy:
 
 ## 📬 Contact
 
-- **Email** (primary): [rynedingler@gmail.cpm](mailto:rynedingler@tgmail.com)
+- **Email** (primary): [rynedingler@gmail.com](mailto:rynedingler@tgmail.com)
 - **GitHub**: [github.com/RyneD314](https://github.com/RyneD314)
 - **LinkedIn**: [linkedin.com/in/rynedingler](https://www.linkedin.com/in/rynedingler/)
 
